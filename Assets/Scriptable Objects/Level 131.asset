@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8923a2d4b870d3a47bfc91b009e15415, type: 3}
+  m_Name: Level 131
+  m_EditorClassIdentifier: 
+  Width: 9
+  Height: 8
+  BoardLayout: []
+  Dots:
+  - {fileID: 1962099156085266218, guid: 23fa334fc89506f43a00ec586a36e4c4, type: 3}
+  - {fileID: 1434240670273923077, guid: 89a96f1ad008ea24f9cbe58a2f04792b, type: 3}
+  - {fileID: 6463997757749242583, guid: 74e4ce66ad4011b4daab61dfc1991eee, type: 3}
+  - {fileID: 2751260026423989904, guid: d024cfd35e893e6409a2d82e4cae6c52, type: 3}
+  - {fileID: 5833483292459291870, guid: 4206fe81c43046940afa26b2a13ffcf1, type: 3}
+  scoreTarget: dc050000d0070000f00a0000
+  EndGameReq:
+    gameType: 0
+    counterValue: 50
+  levelTargets:
+  - NumberOfNeeded: 50
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: 27871c488e2db6d40b356dec72ceb155, type: 3}
+    TargetTag: banana
+  - NumberOfNeeded: 50
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: 50bef0b3f83d62345ba935603d4b1cb5, type: 3}
+    TargetTag: strawberry
+  - NumberOfNeeded: 50
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: d25362820c8ec6642b10d874d78a3178, type: 3}
+    TargetTag: peach
+  - NumberOfNeeded: 50
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: c24a4fbe545eb6b4e8539e6ec2b6347e, type: 3}
+    TargetTag: pear
+  targetType: 0
+  ScoreTarget: 0
+  KeyRoom: 

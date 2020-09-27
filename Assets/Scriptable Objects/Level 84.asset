@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8923a2d4b870d3a47bfc91b009e15415, type: 3}
+  m_Name: Level 84
+  m_EditorClassIdentifier: 
+  Width: 8
+  Height: 9
+  BoardLayout:
+  - x: 0
+    y: 0
+    tileType: 1
+    hitPoint: 0
+  - x: 0
+    y: 1
+    tileType: 1
+    hitPoint: 0
+  - x: 0
+    y: 3
+    tileType: 1
+    hitPoint: 0
+  - x: 0
+    y: 5
+    tileType: 1
+    hitPoint: 0
+  - x: 0
+    y: 7
+    tileType: 1
+    hitPoint: 0
+  - x: 0
+    y: 8
+    tileType: 1
+    hitPoint: 0
+  - x: 2
+    y: 1
+    tileType: 1
+    hitPoint: 0
+  - x: 2
+    y: 7
+    tileType: 1
+    hitPoint: 0
+  - x: 3
+    y: 4
+    tileType: 1
+    hitPoint: 0
+  - x: 4
+    y: 4
+    tileType: 1
+    hitPoint: 0
+  - x: 5
+    y: 1
+    tileType: 1
+    hitPoint: 0
+  - x: 5
+    y: 7
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 0
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 1
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 3
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 5
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 7
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 8
+    tileType: 1
+    hitPoint: 0
+  - x: 7
+    y: 4
+    tileType: 4
+    hitPoint: 1
+  - x: 0
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 7
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 0
+    y: 4
+    tileType: 4
+    hitPoint: 1
+  - x: 0
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 3
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 4
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 5
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  - x: 3
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 4
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 5
+    y: 2
+    tileType: 4
+    hitPoint: 1
+  - x: 5
+    y: 3
+    tileType: 4
+    hitPoint: 1
+  - x: 5
+    y: 4
+    tileType: 4
+    hitPoint: 1
+  - x: 5
+    y: 5
+    tileType: 4
+    hitPoint: 1
+  - x: 5
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  - x: 3
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  - x: 2
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  - x: 7
+    y: 6
+    tileType: 4
+    hitPoint: 1
+  Dots:
+  - {fileID: 8615710023668896245, guid: 4f296907a5022be4ba0f21b022691b81, type: 3}
+  - {fileID: 2751260026423989904, guid: d024cfd35e893e6409a2d82e4cae6c52, type: 3}
+  - {fileID: 203584009717716731, guid: 8d9c00b2fdb8f5b4badf125cf63bedbb, type: 3}
+  - {fileID: 5833483292459291870, guid: 4206fe81c43046940afa26b2a13ffcf1, type: 3}
+  scoreTarget: e8030000d0070000f00a0000
+  EndGameReq:
+    gameType: 0
+    counterValue: 40
+  levelTargets:
+  - NumberOfNeeded: 40
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: d25362820c8ec6642b10d874d78a3178, type: 3}
+    TargetTag: peach
+  - NumberOfNeeded: 40
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: 50bef0b3f83d62345ba935603d4b1cb5, type: 3}
+    TargetTag: strawberry
+  - NumberOfNeeded: 40
+    NumberOfCollected: 0
+    TargetSprite: {fileID: 21300000, guid: 613f846d731c8bd4e8d159a32d6f6c3f, type: 3}
+    TargetTag: orange
+  targetType: 0
+  ScoreTarget: 0
+  KeyRoom: 
